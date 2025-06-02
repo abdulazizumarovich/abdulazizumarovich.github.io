@@ -3,7 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "sg.technobiz.merchant",
-    "sha256_cert_fingerprints":
-    ["7A:48:84:3F:1B:E0:93:0C:13:9C:F9:49:5C:CE:B9:78:3E:84:A6:0D:C0:51:B4:FF:A6:FC:C0:7A:B7:1A:82:54"]
+    "sha256_cert_fingerprints": [
+        "7A:48:84:3F:1B:E0:93:0C:13:9C:F9:49:5C:CE:B9:78:3E:84:A6:0D:C0:51:B4:FF:A6:FC:C0:7A:B7:1A:82:54",
+        "0E:53:A6:7E:96:E4:DA:2D:9A:43:AC:EE:8E:C9:B8:23:A1:56:7D:15:C2:D6:CB:74:D6:02:AB:36:0E:6D:E8:42"
+    ]
   }
 }]
